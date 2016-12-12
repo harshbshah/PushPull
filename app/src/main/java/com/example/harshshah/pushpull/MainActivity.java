@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private void harshV1(){
         String s1 = "hi 1";
+        int ii = 2 + 2;
     }
 
 
